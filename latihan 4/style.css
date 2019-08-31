@@ -1,0 +1,12 @@
+.box {
+    background: rgb(64, 60, 255);
+    margin: 50px;
+    border:1px solid black;
+    padding: 3rem;
+
+}
+
+input {
+    height: 30px;
+
+}
